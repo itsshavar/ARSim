@@ -10,7 +10,6 @@
 
 ### Suggested README:
 
-```markdown
 # Network Analysis and Link Prediction
 
 This Python script performs network analysis and link prediction on a graph constructed from an edge list dataset, specifically the `fb-pages-food.edges` dataset.
@@ -34,6 +33,7 @@ Install the required libraries using:
 
 ```bash
 pip install pandas numpy networkx scikit-learn tqdm
+
 ```
 ### Execution 
 ```bash
@@ -52,6 +52,6 @@ This script was automatically generated from a Jupyter Notebook in Google Colab.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-```
+
 
 This README provides a clear description of the script's functionality, required libraries, usage instructions, and an acknowledgment of the source.
